@@ -63,3 +63,12 @@ form{
     background-color: #C6B477;
     margin-top: 2.5em;
 }
+
+/* Lab 5 - 2 */
+.hoverNode {
+    margin-left: 4px;
+    cursor: pointer;
+    background-color: #d9c085;
+    border: solid 1px black;
+    color: black;
+  }

@@ -1,4 +1,7 @@
-.required{
-    background-color: lightcoral;
-    background: transparent;
-}
+.blank {
+    background-color: red;
+  }
+  
+  input[type="checkbox"].blank {
+    outline: solid 2px red;
+  }
